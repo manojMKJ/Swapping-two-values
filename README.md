@@ -27,7 +27,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 # OUTPUT:
-![Uploading Screenshot (4).png…](
+"C:\Users\SEC\Pictures\Screenshots\Screenshot (4).png"
 
 
 
