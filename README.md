@@ -27,7 +27,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 # OUTPUT:
-![OUTPUT](swapping.png)
+![swapping](https://github.com/manojMKJ/Swapping-two-values/assets/120717614/c88b5bff-8ebf-4f6d-a4f0-b76d60dc08ab)
+
 
 
 
