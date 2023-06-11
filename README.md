@@ -27,10 +27,11 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 # OUTPUT:
-"C:\Users\SEC\Pictures\Screenshots\Screenshot (4).png"
-
+![OUTPUT](swapping.png)
 
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
+
+
